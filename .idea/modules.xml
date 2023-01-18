@@ -6,9 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestPalindrome/LongestPalindrome.iml" filepath="$PROJECT_DIR$/LongestPalindrome/LongestPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyHashSet/MyHashSet.iml" filepath="$PROJECT_DIR$/MyHashSet/MyHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SmallExcercises/SmallExcercises.iml" filepath="$PROJECT_DIR$/SmallExcercises/SmallExcercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
     </modules>
   </component>
 </project>
